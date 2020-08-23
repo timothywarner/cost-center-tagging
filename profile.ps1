@@ -1,5 +1,7 @@
 # Azure Functions profile.ps1
 #
+# Tim was here
+#
 # This profile.ps1 will get executed every "cold start" of your Function App.
 # "cold start" occurs when:
 #
